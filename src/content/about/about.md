@@ -7,10 +7,13 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+<!-- ![](https://github.com/nestorhugo.png?size=150) -->
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
+<a href="/" target="_blank">_cv_</a> |
+<a href="https://github.com/nestorhugo" target="_blank">_github_</a> |
+<a href="https://linkedin.com/in/nestorhugo" target="_blank">_linkedin_</a> |
+_nestorhugofc@gmail.com_
 
-Effortlessly share your thoughts in _a calm & dustless space._
+Sou desenvolvedor frontend na [_FiqOn_](https://fiqon.com.br) e estudante de Sistemas para Internet na Universidade Tecnológica Federal do Paraná. Durante seis anos atuei como designer contractor, período em que nasceu meu interesse por interfaces e pela forma como as pessoas interagem com elas.
 
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+Hoje, meus principais interesses estão em interação humano-computador e tecnologias frontend. Fora do universo da tecnologia, gosto de ler sobre geografia, especialmente temas relacionados à mobilidade urbana.
