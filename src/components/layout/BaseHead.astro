@@ -8,6 +8,7 @@ import 'katex/dist/katex.min.css'
 const canonicalURL = new URL(Astro.url.pathname, Astro.site)
 
 const { title, description, ogImage } = Astro.props as BaseHeadProps
+// Dar uma olhada aqui depois, interessante.
 const imageUrl = ogImage ? new URL(ogImage, Astro.url) : new URL('/og/chiri-og.png', Astro.url)
 ---
 
