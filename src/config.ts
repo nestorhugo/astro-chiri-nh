@@ -3,10 +3,10 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://astro-chiri.netlify.app/', // Site domain
+    website: 'https://nestorhugo.com/', // Site domain
     title: 'Nestor Hugo', // Site title
     author: 'Nestor Hugo', // Author name
-    description: 'Trabalhos, pensamentos e artigos', // Site description
+    description: 'Desenvolvedor e Designer', // Site description
     language: 'pt-BR' // Default language
   },
 

@@ -9,7 +9,7 @@ You can leave this empty if you don’t want to show any content.
 
 <!-- ![](https://github.com/nestorhugo.png?size=150) -->
 
-<a href="/public/docs/Curriculo Nestor Hugo - Dev Front End.pdf" target="_blank">_cv_</a> |
+<a href="https://raw.githubusercontent.com/nestorhugo/astro-chiri-nh/main/public/docs/Curriculo%20Nestor%20Hugo%20-%20Dev%20Front%20End.pdf" target="_blank">_cv_</a> |
 <a href="https://github.com/nestorhugo" target="_blank">_github_</a> |
 <a href="https://linkedin.com/in/nestorhugo" target="_blank">_linkedin_</a> |
 _nestorhugofc@gmail.com_
