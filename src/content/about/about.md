@@ -9,6 +9,6 @@ title: 'About'
 <a href="https://linkedin.com/in/nestorhugo" target="_blank">_linkedin_</a> |
 _nestorhugofc@gmail.com_
 
-Desenvolvedor de Software na [_BigCore_](https://www.bigcore.com.br/) e estudante de Sistemas para Internet na [_Universidade Tecnológica Federal do Paraná_](https://www.utfpr.edu.br/). Durante seis anos atuei como designer contractor, período em que surgiu meu interesse por interfaces e pela forma como as pessoas interagem com elas.
+Desenvolvedor de Software na [_BigCore_](https://www.bigcore.com.br/) e acadêmico de Sistemas para Internet na [_Universidade Tecnológica Federal do Paraná_](https://www.utfpr.edu.br/). Durante seis anos atuei como designer contractor, período em que surgiu meu interesse por interfaces e pela forma como as pessoas interagem com elas.
 
 Hoje, meus principais interesses estão em interação humano-computador, tecnologias frontend e software livre. Fora do universo da tecnologia, gosto de ler sobre geografia e sociologia.
