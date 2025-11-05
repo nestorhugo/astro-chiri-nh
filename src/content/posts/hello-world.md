@@ -29,6 +29,6 @@ Se amanhã o X ou o Instagram acabarem, o SEU blog continua lá. O conteúdo é 
 
 Acho que blogs ainda têm muito valor, talvez até mais agora do que antes. São espaços pessoais, livres e sinceros, onde dá pra pensar com calma, construir algo com um pouco mais de profundidade :)
 
-Você pode ver o repositório deste blog no repositório a seguir, estou planejando escrever sobre como começar um blogzinho assim como este, usando Astro e gerenciando as postagens a partir de arquivos markdown
+Você pode ver o repositório deste blog a seguir, estou planejando escrever sobre como começar um blogzinho assim como este, usando Astro e gerenciando as postagens a partir de arquivos markdown
 
 ::github{repo="nestorhugo/astro-chiri-nh"}
