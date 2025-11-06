@@ -1,6 +1,6 @@
 ---
 title: 'Olá mundo! Hola mundo! Hello world!'
-pubDate: '2025-11-10'
+pubDate: '2025-11-03'
 ---
 
 Recentemente decidi criar um blog usando Astro. Peguei um [tema pronto e gratuíto](https://github.com/the3ash/astro-chiri) e deixei do jeitinho que eu queria. A ideia era só ter um espaço onde eu pudesse escrever, documentar o que aprendo e guardar algumas reflexões. Nada muito planejado, só um lugar tranquilo pra organizar as ideias fora das redes sociais.
