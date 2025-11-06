@@ -5,8 +5,6 @@ pubDate: '2025-11-06'
 
 Recentemente me peguei pensando em como funcionam aquelas thumbnails que aparecem quando compartilhamos um link nas redes sociais. Essa curiosidade me levou a descobrir as OG Images, um protocolo desenvolvido pela Meta que permite definir imagens personalizadas através de meta tags no head do HTML. Inclusive, se você compartilhar o link deste blog, vai ver que ele também tem sua própria OG Image.
 
-<img src="https://baas-devpr.vercel.app/image?title=Gerando imagens dinâmicas com Satori: sem browser headless&subtitle=Nestor Hugo - nestorhugo.com"/>
-
 ## Da curiosidade à aplicação
 
 Inicialmente, dei uma olhada na solução da Vercel para Next.js: `@vercel/og`. É uma ferramenta robusta e bem integrada ao Next, mas eu queria entender como é que eles faziam isso, pra eu poder ter mais liberdade para implementar em ambientes diferentes =P
@@ -15,13 +13,15 @@ Foi então que descobri o [Satori](https://github.com/vercel/satori), a lib open
 
 Foi quando veio o estalo na cabeça: eu poderia usar essa tecnologia para criar um gerador de banners para a comunidade [DevParaná](https://devpr.org/)!! A realidade é que muitos devs nem sempre tem familiaridade com as ferramentas de design, e isso seria uma excelente ajuda pro pessoal poder divulgar os eventos
 
-Combinando Express + Satori + resvg, criei o gerador de banners. A ideia é expor um endpoint `/image/` e receber os parâmetros da imagem via query string. Assim posso montar um link e usar diretamente no `src=""` de qualquer aplicação, como inclusive estou usando neste artigo no exemplo acima hehe
+Combinando Express + Satori + resvg, criei o gerador de banners. A ideia é expor um endpoint `/image/` e receber os parâmetros da imagem via query string. Assim posso montar um link e usar diretamente no `src=""` de qualquer aplicação, como inclusive estou usando neste artigo no exemplo a seguir hehe
 
 ```html
 <img
   src="https://baas-devpr.vercel.app/image?title=Gerando imagens dinâmicas com Satori: sem browser headless&subtitle=Nestor Hugo - nestorhugo.com"
 />
 ```
+
+<img src="https://baas-devpr.vercel.app/image?title=Gerando imagens dinâmicas com Satori: sem browser headless&subtitle=Nestor Hugo - nestorhugo.com"/>
 
 O fluxo para gerar as imagens segue os seguintes passos:
 
